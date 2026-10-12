@@ -2,7 +2,7 @@
 title: "Final Fantasy XV: Pulse and Traction of Characters"
 collection: publications
 category: talks
-permalink: /talks/2016-07-24-ffxv-pulse-and-traction
+permalink: /publications/2016-07-24-ffxv-pulse-and-traction
 date: 2016-07-24
 venue: "Anaheim Convention Center"
 location: "Anaheim, California, USA"

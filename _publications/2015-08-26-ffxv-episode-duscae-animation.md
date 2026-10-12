@@ -2,7 +2,7 @@
 title: "FINAL FANTASY XV -EPISODE DUSCAE- のアニメーション ～接地感向上のためのとりくみ～"
 collection: publications
 category: talks
-permalink: /talks/2015-08-26-ffxv-episode-duscae-animation
+permalink: /publications/2015-08-26-ffxv-episode-duscae-animation
 date: 2015-08-26
 venue: 'パシフィコ横浜'
 location: 'Yokohama, Kanagawa, Japan'

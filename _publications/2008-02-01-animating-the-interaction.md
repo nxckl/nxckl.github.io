@@ -1,7 +1,7 @@
 ---
 title: "CGにおける流体と弾性体の連成シミュレーションに関する研究"
 collection: publications
-category: conferences
+category: theses
 permalink: /publication/2008-02-01-animating-the-interaction
 date: 2008-02-01
 ---
