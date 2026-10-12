@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Bio
 
 Name
 :   Noriyuki Imamura / 今村 紀之
