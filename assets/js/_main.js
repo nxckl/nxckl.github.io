@@ -182,4 +182,16 @@ $(document).ready(function () {
     }
   });
 
+  // Obtain external links
+  var links = $('.page__content a[href^="http"]');
+  var host = window.location.hostname;
+
+  links.forEach(function(link) {
+    if (link.hostname !== host) {
+      // Add attributes to open external links in a new tab
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+
 });
