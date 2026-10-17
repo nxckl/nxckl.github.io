@@ -1,0 +1,7 @@
+.page__content a[href^="http"]:not([href*="{{ site.url }}"])::after {
+  content: "\f35d"; /* external-link-alt */
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  margin-left: 4px;
+  font-size: 0.8em;
+}
