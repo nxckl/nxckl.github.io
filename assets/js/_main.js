@@ -183,7 +183,7 @@ $(document).ready(function () {
   });
 
   // Obtain external links
-  var links = $('.page__content a[href^="http"]');
+  var links = $('article a[href^="http"]');
   var host = window.location.hostname;
 
   links.forEach(function(link) {
