@@ -186,7 +186,8 @@ $(document).ready(function () {
   var links = $('article a[href^="http"]');
   var host = window.location.hostname;
 
-  links.forEach(function(link) {
+  links.each(function() {
+    var link = this;
     if (link.hostname !== host) {
       // Add attributes to open external links in a new tab
       link.setAttribute('target', '_blank');
