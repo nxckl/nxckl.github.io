@@ -86,20 +86,28 @@ author:
 publication_category:
   talks:
     title: 'Talks'
+    icon: 'fa-solid fa-microphone' 
   books:
     title: 'Books'
+    icon: 'fa-solid fa-book'
   manuscripts:
     title: 'Journal Articles'    
+    icon: 'fa-solid fa-file-lines'
   conferences:
     title: 'Conference Papers'
+    icon: 'fa-solid fa-users'
   theses:
     title: 'Theses'
+    icon: 'fa-solid fa-graduation-cap'
   posters:
     title: 'Posters'
+    icon: 'fa-solid fa-image'
   installations:
     title: 'Installations'
+    icon: 'fa-solid fa-paint-brush'
   animations:
     title: 'Animations'
+    icon: 'fa-solid fa-film'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

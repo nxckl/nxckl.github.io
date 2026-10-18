@@ -2,6 +2,12 @@ ul {
   padding-left: 1em;
 }
 
+h2.publication_category {
+  font-size: 1.5em;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
+
 article a[href^="http"]:not([href*="#{$site-url}"])::after {
   content: "\f35d"; /* external-link-alt */
   font-family: "Font Awesome 6 Free";

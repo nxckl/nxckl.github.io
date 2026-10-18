@@ -11,5 +11,5 @@ citation: "今村紀之. CGにおける流体と弾性体の連成シミュレ�
 
 - <i class="fa-solid fa-file-pdf"></i> [Poster small](../files/2008-02-01/poster_final_small.pdf)
 - <i class="fa-solid fa-file-pdf"></i> [Poster large](../files/2008-02-01/poster_final_uneditable.pdf)
-- <i class="fa-solid fa-file-pdf"></i>[Abstract](../files/2008-02-01/abstract.pdf)
+- <i class="fa-solid fa-file-pdf"></i> [Abstract](../files/2008-02-01/abstract.pdf)
 <!-- more -->
