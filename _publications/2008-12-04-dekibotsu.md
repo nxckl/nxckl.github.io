@@ -6,4 +6,4 @@ permalink: /publication/2008-12-04-dekibotsu
 date: 2008-12-04
 citation: '眼鏡カルテット 「溺没」, iii Exhibition 10, (2008)'
 ---
-- <i class="fa-regular fa-file-video"></i> [Video](../files/2008-12-04/megane-quartet.wmv)
+- <i class="fa-regular fa-file-video"></i> [Video](../files/2008-12-04/megane-quartet.mp4)
