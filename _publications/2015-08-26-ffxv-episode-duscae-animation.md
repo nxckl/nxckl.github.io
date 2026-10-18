@@ -9,6 +9,6 @@ location: 'Yokohama, Kanagawa, Japan'
 citation: 'Noriyuki Imamura and Katsuaki Kawachi. 2015. FINAL FANTASY XV -EPISODE DUSCAE- のアニメーション ～接地感向上のためのとりくみ～. In CEDEC 2015.'
 ---
 - [CEDEC 2015 Session Details](https://cedec.cesa.or.jp/2015/session/ENG/3674.html)
-- <i class="fab fa-file-pdf"></i> [Slide (Square Enix Library)](https://www.jp.square-enix.com/tech/library/pdf/CEDEC2015_Luminous_FFXV_Animation.pdf)
+- <i class="fa-solid fa-file-pdf"></i> [Slide (Square Enix Library)](https://www.jp.square-enix.com/tech/library/pdf/CEDEC2015_Luminous_FFXV_Animation.pdf)
 
 <!-- more -->

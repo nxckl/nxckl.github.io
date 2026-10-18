@@ -9,6 +9,6 @@ citation: '今村 紀之, 原田 隆宏, 河口 洋一郎, 境界マップを用
 英題
 :  Fast Coupling of Fluid and Deformable Bodies using Boundary Mapping
 
-- <i class="fab fa-file-pdf"></i>[Paper](../files/2008-10-23/fluid-coupling.pdf)
+- <i class="fa-solid fa-file-pdf"></i> [Paper](../files/2008-10-23/fluid-coupling.pdf)
 
 <!-- more -->
